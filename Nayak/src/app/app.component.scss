@@ -1,0 +1,46 @@
+header{
+background-color: white;
+h1{
+    margin:0;
+    text-align: center;
+    color:#496989;
+    padding: 10px;
+}
+}
+
+nav{
+    background-color: #496989;
+    display: flex;
+    padding: 10px;
+    .nav-items{
+        a{
+        padding:10px;
+        color:white;
+        text-decoration: none;
+    }
+    a:hover{
+        background-color: #EEE4B1;
+        padding: 05px;
+        border-radius: 5px;
+    }
+        
+
+
+    }
+
+}
+
+main{
+background-color: cornsilk;
+min-height: 600px;
+
+}
+
+footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding: 5px;
+
+}
+
